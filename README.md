@@ -1,6 +1,9 @@
 # Beverage-Marketing-AR-app
 A beverage marketing app trying to market it’s new products using latest Augmented Reality  technology giving users a refreshing wave of air. It allows users to visualize the new products  and read about it within app and interact with it. 
 
+# Test
+FInd the apk at 
+and use given images for image recognition
 # Technologies Used
 Arcore, Unity 2019.4, Visual Studio, DoTween, Blender
 
@@ -26,4 +29,4 @@ It is a prototype for any product marketing app. It has various features like
  - Build the app
 
 
-
+Ps. It will work for Android greater than 7.0 only that supports ArCore.

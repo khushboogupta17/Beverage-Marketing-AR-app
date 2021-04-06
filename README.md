@@ -2,12 +2,13 @@
 A beverage marketing app trying to market it’s new products using latest Augmented Reality  technology giving users a refreshing wave of air. It allows users to visualize the new products  and read about it within app and interact with it. 
 <p>
 <img src="https://github.com/khushboogupta17/Beverage-Marketing-AR-app/blob/main/BeverageMarketing/SSBuilding.png" width="20%" height="20%">
-![screenshot](https://github.com/khushboogupta17/Beverage-Marketing-AR-app/blob/main/BeverageMarketing/SSCoffee.png){:height="50%" width="50%"}
+<img src="https://github.com/khushboogupta17/Beverage-Marketing-AR-app/blob/main/BeverageMarketing/SSCoffee.png" width="20%" height="20%">
 </p>
+
 # Test
 FInd the apk [here](Beverage-Marketing-AR-app/tree/main/BeverageMarketing/Builds)
 and use given image for image recognition
-![screenshot](https://github.com/khushboogupta17/Beverage-Marketing-AR-app/blob/main/BeverageMarketing/Assets/GoogleARCore/Examples/AugmentedImage/Images/000.jpg){:height="30%" width="30%"}
+<img src="https://github.com/khushboogupta17/Beverage-Marketing-AR-app/blob/main/BeverageMarketing/Assets/GoogleARCore/Examples/AugmentedImage/Images/000.jpg" width="20%" height="20%">
 
 # Technologies Used
 Arcore, Unity 2019.4, Visual Studio, DoTween, Blender

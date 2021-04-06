@@ -5,8 +5,8 @@ A beverage marketing app trying to market it’s new products using latest Augme
 
 # Test
 FInd the apk [here](Beverage-Marketing-AR-app/tree/main/BeverageMarketing/Builds)
-and use given images for image recognition
-![screenshot](Beverage-Marketing-AR-app/blob/main/BeverageMarketing/Assets/GoogleARCore/Examples/AugmentedImage/Images/000.jpg)
+and use given image for image recognition
+![screenshot](https://github.com/khushboogupta17/Beverage-Marketing-AR-app/blob/main/BeverageMarketing/Assets/GoogleARCore/Examples/AugmentedImage/Images/000.jpg)
 
 # Technologies Used
 Arcore, Unity 2019.4, Visual Studio, DoTween, Blender

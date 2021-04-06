@@ -1,7 +1,7 @@
 # Beverage-Marketing-AR-app
 A beverage marketing app trying to market it’s new products using latest Augmented Reality  technology giving users a refreshing wave of air. It allows users to visualize the new products  and read about it within app and interact with it. 
 <p>
-<img src="https://github.com/khushboogupta17/Beverage-Marketing-AR-app/blob/main/BeverageMarketing/SSBuilding.png" width="50%" height="50%">
+<img src="https://github.com/khushboogupta17/Beverage-Marketing-AR-app/blob/main/BeverageMarketing/SSBuilding.png" width="20%" height="20%">
 ![screenshot](https://github.com/khushboogupta17/Beverage-Marketing-AR-app/blob/main/BeverageMarketing/SSCoffee.png){:height="50%" width="50%"}
 </p>
 # Test

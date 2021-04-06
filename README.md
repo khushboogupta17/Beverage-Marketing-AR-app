@@ -1,7 +1,7 @@
 # Beverage-Marketing-AR-app
 A beverage marketing app trying to market it’s new products using latest Augmented Reality  technology giving users a refreshing wave of air. It allows users to visualize the new products  and read about it within app and interact with it. 
 
-# Technoligies Used
+# Technologies Used
 Arcore, Unity 2019.4, Visual Studio, DoTween, Blender
 
 # Prototype description 
@@ -15,7 +15,7 @@ It is a prototype for any product marketing app. It has various features like
 
 
 # How to use it for creating your own bevarage Marketing app
--Go to Assets -> Scenes -> Main Scene
+  -Go to Assets -> Scenes -> Main Scene
  - Add your buidling in root object in heirarchy and set it to building in building manager
  - Change the menu options prefab under menu controller to whatevers products you want to market
  - Add the information 

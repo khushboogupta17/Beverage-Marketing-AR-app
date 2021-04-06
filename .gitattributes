@@ -1,0 +1,2 @@
+*.dbg.so filter=lfs diff=lfs merge=lfs -text
+*sym.so filter=lfs diff=lfs merge=lfs -text

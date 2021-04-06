@@ -25,8 +25,6 @@ It is a prototype for any product marketing app. It has various features like
 
 • _Hotspots_- On clicking the two coffee models, information regarding them can be read.  We can use this space to show information regarding ingredients or customer  feedback of that product. 
 
-# Images for Image Recognition
-
 
 # How to use it for creating your own bevarage Marketing app
   -Go to Assets -> Scenes -> Main Scene

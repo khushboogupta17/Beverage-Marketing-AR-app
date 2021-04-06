@@ -11,6 +11,7 @@ and use given image for image recognition
 <p>
 <img src="https://github.com/khushboogupta17/Beverage-Marketing-AR-app/blob/main/BeverageMarketing/Assets/GoogleARCore/Examples/AugmentedImage/Images/000.jpg" width="20%" height="20%">
 </p>
+
 # Technologies Used
 Arcore, Unity 2019.4, Visual Studio, DoTween, Blender
 

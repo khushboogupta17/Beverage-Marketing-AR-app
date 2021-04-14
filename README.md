@@ -3,7 +3,7 @@ A beverage marketing app trying to market it’s new products using latest Augme
 You can find the video here 
 <div align="left">
       <a href="https://www.youtube.com/watch?v=ByGgxsjGyMU">
-         <img src=https://github.com/khushboogupta17/Beverage-Marketing-AR-app/blob/main/BeverageMarketing/Builds/SS_3.png" style="width:100%;">
+         <img src="https://github.com/khushboogupta17/Beverage-Marketing-AR-app/blob/main/BeverageMarketing/Builds/SS_3.png" style="width:100%;">
       </a>
 </div>
 <p>

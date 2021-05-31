@@ -12,7 +12,7 @@ You can find the video here
 </p>
 
 # Test
-FInd the apk [here](Beverage-Marketing-AR-app/tree/main/BeverageMarketing/Builds)
+FInd the apk [here](Beverage-Marketing-AR-app/blob/main/BeverageMarketing/Builds/test1.apk)
 and use given image for image recognition
 <p>
 <img src="https://github.com/khushboogupta17/Beverage-Marketing-AR-app/blob/main/BeverageMarketing/Assets/GoogleARCore/Examples/AugmentedImage/Images/000.jpg" width="20%" height="20%">

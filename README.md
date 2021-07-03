@@ -37,7 +37,7 @@ It is a prototype for any product marketing app. It has various features like
   -Go to Assets -> Scenes -> Main Scene
  - Add your buidling in root object in heirarchy and set it to building in building manager
  - Change the menu options prefab under menu controller to whatevers products you want to market
- - Add the information 
+ - Add the information inside Beverages option in hierarchy and change the models to your need.
  - Build the app
 
 
